@@ -57,4 +57,4 @@ examples/                     sample prompts
 
 ## License
 
-MIT, Samuel Ezekiel
+MIT, samkiel
